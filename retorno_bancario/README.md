@@ -5,6 +5,7 @@ Foram analisados os dados das Instituições Financeiras:
 - Bradesco
 - Itau
 - Santander
+
 E também do Indice IBOVESPA
 
 Passo 1: Importar as bilbiotecas para utilização no projeto
